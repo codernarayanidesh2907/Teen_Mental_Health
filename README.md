@@ -62,7 +62,7 @@ The interface allows users to:
 * Scikit-learn
 * Matplotlib
 * Tkinter
-* Pickle/Joblib
+* Joblib
 
 ## 📚 Key Learnings
 
