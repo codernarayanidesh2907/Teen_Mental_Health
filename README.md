@@ -48,6 +48,11 @@ The interface allows users to:
 * Enter relevant input parameters
 * Submit the information to the trained model
 * View the resulting prediction
+  <img width="999" height="919" alt="image" src="https://github.com/user-attachments/assets/b45c439e-bb6b-4ca0-9bbf-64b2ca438d80" />
+  <img width="464" height="309" alt="image" src="https://github.com/user-attachments/assets/d7fe081c-0791-4247-b691-e56d5a843e19" /> <img width="434" height="278" alt="image" src="https://github.com/user-attachments/assets/50fc7aab-bd4e-4672-8d50-ee7e0ce4a603" />
+
+
+
 
 ## 🛠️ Technologies Used
 
